@@ -16,5 +16,6 @@ public class MainActivity extends AppCompatActivity {
         String str = "123";
         String str2 = "456";
         String str3 = "678";
+        String str4 = "890";
     }
 }
