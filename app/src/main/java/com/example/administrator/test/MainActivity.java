@@ -14,5 +14,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void iniView() {
         String str = "123";
+        String str2 = "456";
+        
     }
 }
